@@ -59,19 +59,18 @@ Neon Nine Lives is a **2.5D side-scrolling action-adventure platformer** that em
 - **Modular level design** for scalable content expansion.  
 
 ## Sound & Music
-- **Dynamic background music** adapting to gameplay intensity.  
-- **Unique sound effects** for movement, combat, and interactions.  
-- **Voiceovers or text-based dialogue** for storytelling.  
+- **Background music**  
+- **Unique sound effects** for movement, combat, and interactions.
 
 ---
 
 ## **Development Roadmap**
 ### **Week 3**
-✅ Introduce character model and develop animations.  
-✅ Implement functional character movement and controls.  
-✅ Develop one working enemy AI.  
-✅ Design modular static meshes for environments.  
-✅ Implement interactable objects.  
+🔹 Introduce character model and develop animations.  
+🔹 Implement functional character movement and controls.  
+🔹 Develop one working enemy AI.  
+🔹 Design modular static meshes for environments.  
+🔹 Implement interactable objects.  
 
 ### **Week 4 - Alpha Stage Goals (First Playable Build)**
 🔹 Implement core movement mechanics (running, jumping, dashing, ledge grabbing).  
