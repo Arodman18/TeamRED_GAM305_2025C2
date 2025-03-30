@@ -73,6 +73,7 @@ Neon Nine Lives is a **2.5D side-scrolling action-adventure platformer** that em
 ✅ Implement interactable objects.  
 
 ### **Week 4 - Alpha Stage Goals (First Playable Build)**
+## Alpha Download Link ## **https://we.tl/t-ozHATrzKH3**
 ✅ Implement core movement mechanics (running, jumping, dashing, ledge grabbing).  
 ✅ Implement basic combat system (shooting, hit detection, enemy reactions).  
 ✅ Develop AI behavior (patrolling, shooting, taking damage).  
