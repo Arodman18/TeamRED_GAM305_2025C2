@@ -66,19 +66,19 @@ Neon Nine Lives is a **2.5D side-scrolling action-adventure platformer** that em
 
 ## **Development Roadmap**
 ### **Week 3**
-🔹 Introduce character model and develop animations.  
-🔹 Implement functional character movement and controls.  
-🔹 Develop one working enemy AI.  
-🔹 Design modular static meshes for environments.  
-🔹 Implement interactable objects.  
+✅ Introduce character model and develop animations.  
+✅ Implement functional character movement and controls.  
+✅ Develop one working enemy AI.  
+✅ Design modular static meshes for environments.  
+✅ Implement interactable objects.  
 
 ### **Week 4 - Alpha Stage Goals (First Playable Build)**
-🔹 Implement core movement mechanics (running, jumping, dashing, ledge grabbing).  
-🔹 Implement basic combat system (shooting, hit detection, enemy reactions).  
-🔹 Develop AI behavior (patrolling, shooting, taking damage).  
-🔹 Create one **fully playable level** with obstacles, hazards, and interactive elements.  
-🔹 Add placeholder UI for health & power-ups.  
-🔹 Ensure the game is **playable on PC**.  
+✅ Implement core movement mechanics (running, jumping, dashing, ledge grabbing).  
+✅ Implement basic combat system (shooting, hit detection, enemy reactions).  
+✅ Develop AI behavior (patrolling, shooting, taking damage).  
+✅ Create one **fully playable level** with obstacles, hazards, and interactive elements.  
+✅ Add placeholder UI for health & power-ups.  
+✅ Ensure the game is **playable on PC**.  
 
 ### **Week 5**
 🔹 Add a second enemy type (flying enemy).  
@@ -178,3 +178,27 @@ A team meeting will be scheduled to test the demo build prior to Alpha release.
 
 ## Repository URL
 [https://github.com/Arodman18/TeamRED_GAM305_2025C2](https://github.com/Arodman18/TeamRED_GAM305_2025C2)
+
+## TeamRED 4-2 Project Log: Team Reflection and Alpha Release
+The testing process went well with many bugs identified and reported using methods the team intended to use internally. Once reported, the team was able to replicate and resolve the bugs in a timely manner. Using multiple methods to test and retest the bugs ensured a desirable outcome.
+
+Bugs were identified by developers during the testing process by playing and testing specific mechanics. Bugs were categorized based on which development area they were in, which were then resolved via extensive research, where multiple people would go throughout the project and problem-solve the different bugs, going between each area that were categorized, based on most problematic to least problematic for the development process.
+
+As an example, some of the coding ended up not working out, which the coder/lead designer would have to go in and correct to fix and ensure the character would work properly based on the level. Or how some of the level would make the player character go off the level, which would be on the level designer to ensure that doesn’t happen.
+
+We could have improved the testing process by developing a more specific checklist for mechanics to be tested. For example, instead of testing “character movement,” we could list out elements of the character movement system to be tested. Having a clear goal would have improved the approach our QA testers took and increased the feedback provided.
+
+Our team utilized GitHub Desktop and Hack-n-plan which both came in very helpful and contributed to our success. A common roadblock for many teams and this course in general has been using Git and source control, but using the visual aspects of GitHub Desktop has helped our team stay organized and on track without any major issues.
+
+Using Hack-n-plan, we have been able to assign and report progress very easily, with visibility from each team member being accessible. This has helped to identify specific tasks, improving session efficiency and ensuring scope management.
+
+We have used Discord as the primary form of communication and have been able to maintain contact.
+Our game is a 2.5D sidescroller and many of the Unreal Engine 5 provided templates that we planned to use were not helpful. In fact, we scrapped many of them to create our own custom blueprints with functionality that met our intentions.
+
+Our approach using tools and techniques outlined in the game design document was greatly affected by how we as a team would work together to develop the project. As a team geographically separated, we needed a way to communicate while actively working on the project, and GitHub and Hack-n-plan made that possible.
+
+The chosen game type also affected our decision to use specific game assets and design techniques that encouraged our workflow. Each of our inputs are critical to the outcome of level design, functionality, and the game environment, which forced us to work closely and modularly.
+
+
+
+
