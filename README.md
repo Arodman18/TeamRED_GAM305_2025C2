@@ -66,19 +66,19 @@ Neon Nine Lives is a **2.5D side-scrolling action-adventure platformer** that em
 
 ## **Development Roadmap**
 ### **Week 3**
-🔹 Introduce character model and develop animations.  
-🔹 Implement functional character movement and controls.  
-🔹 Develop one working enemy AI.  
-🔹 Design modular static meshes for environments.  
-🔹 Implement interactable objects.  
+✅ Introduce character model and develop animations.  
+✅ Implement functional character movement and controls.  
+✅ Develop one working enemy AI.  
+✅ Design modular static meshes for environments.  
+✅ Implement interactable objects.  
 
 ### **Week 4 - Alpha Stage Goals (First Playable Build)**
-🔹 Implement core movement mechanics (running, jumping, dashing, ledge grabbing).  
-🔹 Implement basic combat system (shooting, hit detection, enemy reactions).  
-🔹 Develop AI behavior (patrolling, shooting, taking damage).  
-🔹 Create one **fully playable level** with obstacles, hazards, and interactive elements.  
-🔹 Add placeholder UI for health & power-ups.  
-🔹 Ensure the game is **playable on PC**.  
+✅ Implement core movement mechanics (running, jumping, dashing, ledge grabbing).  
+✅ Implement basic combat system (shooting, hit detection, enemy reactions).  
+✅ Develop AI behavior (patrolling, shooting, taking damage).  
+✅ Create one **fully playable level** with obstacles, hazards, and interactive elements.  
+✅ Add placeholder UI for health & power-ups.  
+✅ Ensure the game is **playable on PC**.  
 
 ### **Week 5**
 🔹 Add a second enemy type (flying enemy).  
