@@ -227,6 +227,32 @@ The intended Beta stage is a fully playable gameplay loop across two levels. Thi
 ## Repository:
 Arodman18/TeamRED_GAM305_2025C2: Game Development project TeamRED, GAM-305 C-2 SNHU
 
+# TeamRED 6-2 Project Log: Team Reflection and Final Release
+
+## GitHub Repo:
+Arodman18/TeamRED_GAM305_2025C2: Game Development project TeamRED, GAM-305 C-2 SNHU
+
+## Final Release DL Link:
+https://we.tl/t-kVjOhJFHxh
+
+As a team, you will routinely conduct reviews based on your progression towards the plans that you created. Evaluate the plan that your team created in Module Three from an artist’s standpoint.
+
+## After completing your plan analysis, conduct a team reflection and consider the following:
+## What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+The team successfully shifted focus from new feature implementation to polishing existing mechanics and improving visual and audio elements based on play tester feedback. The decision to prioritize quality over quantity resulted in a more stable and enjoyable experience. Communication between team members also improved as we became more familiar with each other's workflows, which helped us stay organized and on track for the final release deadline.
+
+## What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+While we managed to polish a lot of the game, we underestimated the amount of time needed for final testing and bug-fixing before release. Some small but noticeable glitches slipped through during internal testing, and late-stage changes created new bugs that could have been avoided with more time allocated for testing. Even though the bugs and issues were fixed before the deadline, it was still a hassle with the amount of time given
+
+## How were the previous evaluations integrated into this latest stage?
+The feedback from earlier evaluations continued to guide our priorities, especially around bug fixes, balance, and usability improvements. Specific issues pointed out by both the team and play testers were converted into task lists and completed in order of priority. Our process of assigning focused roles and smaller goals based on prior evaluations helped streamline the final sprint toward the release.
+
+## What would you do differently to improve the collaboration or development process?
+For future projects, we would start final testing earlier and schedule more structured check-ins to ensure consistent progress and early detection of last-minute issues. It would also help to rotate roles slightly more, so everyone gains broader experience in all areas, especially when someone is unavailable. More frequent in-person or real-time collaboration sessions could have reduced the number of misunderstandings and delays as well.
+
+## Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+No specific tools stood out as unhelpful this time, but we did encounter some challenges when using placeholder assets and prototype scripts for too long without replacing them. Leaving these in place until the later stages slowed down final integration and polish. Going forward, swapping out temporary assets earlier would prevent last-minute scrambles and make final playtesting more accurate.
+
 
 
 
